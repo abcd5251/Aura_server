@@ -1,4 +1,4 @@
-# AI Backend
+# Aura Backend
 API for the latest news of RWA Diamonds and a RAG for RWA Diamonds information.
 
 ## Execution
