@@ -1,12 +1,6 @@
 from fastapi import FastAPI, Request
 import json
-#from crawl4ai import *
-from embedding import get_client, get_embedding, search_from_qdrant
-from models.model import OpenAIModel
 from models.schema import InputData, QueryNews
-from prompts.summarize import summarize_prompt
-from prompts.planner import planner_prompt
-from prompts.qa import qa_prompt
 from models.model import OpenAIModel
 from utils.constants import INFORMATION
 from fastapi.middleware.cors import CORSMiddleware
