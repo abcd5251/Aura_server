@@ -1,5 +1,5 @@
 # AI Backend
-API for the latest news and a RAG DeFi knowledge base on DeFi strategies, allowing users to easily access blockchain information.
+API for the latest news of RWA Diamonds and a RAG for RWA Diamonds information.
 
 ## Execution
 Put your API key into .env file
@@ -7,8 +7,6 @@ Put your API key into .env file
 OPENAI_MODEL=""
 OPENAI_API_KEY=""
 SERPER_API=""
-QDRANT_DB_URL=""
-QDRANT_APIKEY=""
 ```
 Install Package
 ```
