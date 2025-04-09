@@ -1,0 +1,92 @@
+# Flow
+
+- LST ankrFLOW (Low Risk)
+- Add liquidity in ankrFLOW stableKitty pool (High Risk)
+- Compound strategies
+    - stake Flow to ankrFLOW -> deposit ankrFLOW to stableKitty pool
+- [Two Kitty Pool - StableKitty](https://stable.kittypunch.xyz/pool/twokitty/0x7296a9c350cad25fc69b47ec839dcf601752c3c2)
+- [Ankr Staking](https://www.ankr.com/staking/stake/flow/)
+
+# Celo
+
+- Supply cEUR  on AAVE (Medium Risk)
+    - **Aave** is one of the most popular **decentralized lending protocols** in the Web3 space. It allows users to **lend and borrow cryptocurrencies** without needing a centralized intermediary like a bank. Aave is built on Celo and other blockchains, and it's a key part of the DeFi (Decentralized Finance) ecosystem.
+    - In a lending protocol, you earn rewards by depositing your crypto assets into a liquidity pool, where borrowers pay interest on those funds, and you receive a portion of that interest—sometimes along with bonus tokens from the protocol.
+    - [Aave - Open Source Liquidity Protocol](https://app.aave.com/)
+- LST stCELO (Low Risk)
+    - **Liquid Staking** is a mechanism in the blockchain world that allows users to **stake their tokens to earn rewards** *while still maintaining liquidity*—meaning they can use a representation of those staked tokens elsewhere (e.g., in DeFi protocols).
+    
+    ### How It Works
+    
+    1. You **stake** your CELO via a liquid staking protocol (eg. Ankr).
+    2. You receive a **liquid staking token (LST eg. ankrFLOW)** in return
+    3. This LST represents your staked asset and can be:
+    - Traded
+    - Used as collateral
+    - Supplied to DeFi protocols
+    - [StakedCelo - Liquid staking on Celo | [...Slug]](https://app.stcelo.xyz/stake)
+
+
+
+StableKitty is a DeFi protocol designed to enhance stablecoin trading and liquidity farming with a strong focus on minimizing slippage and improving transaction efficiency. Developed by the KittyPunch team, it has quickly positioned itself as one of the fastest growing platforms in the Web3 space.
+
+Key Features
+Low-Slippage Stablecoin Trading:
+StableKitty is engineered to support highly efficient stablecoin swaps with minimal price deviation. In practice, it has already facilitated over $13.4 million in stablecoin transactions, maintaining slippage under $5 per transaction, which is critical for traders looking for cost-effective and predictable trading experiences.
+
+Rapid Liquidity Growth:
+In its early phase, the StableKitty swap pool rapidly accumulated significant liquidity—over $6 million in TVL within just the first two weeks. This liquidity provides a robust foundation for both high-frequency trading and yield farming, enabling users to access deep markets with reduced volatility.
+
+Liquidity Farming Initiatives:
+Beyond facilitating stablecoin exchanges, StableKitty also supports liquidity farming. By allowing users to supply assets to its liquidity pools, the protocol incentivizes participation through rewards, thereby deepening the liquidity further and strengthening the ecosystem.
+
+Integration with Web3 Ecosystems:
+As part of the broader KittyPunch suite, StableKitty contributes to an interconnected DeFi ecosystem that leverages blockchain technology to remove traditional intermediaries. Its design promotes transparency, automation, and permissionless access to financial services—all key tenets of Web3 innovation.
+
+Ecosystem Impact
+StableKitty’s introduction has had a noticeable impact on the DeFi landscape:
+
+It improves stablecoin trading by significantly lowering transaction costs and slippage, making it easier for users to execute large-volume trades.
+
+Its rapid liquidity accumulation fosters a more resilient market, which is essential for both traders and liquidity providers.
+
+The protocol’s automated liquidity farming features encourage broader participation, driving further growth in TVL (Total Value Locked) and enhancing overall market efficiency.
+
+StableKitty exemplifies how modern DeFi protocols are leveraging smart contracts and automated mechanisms to deliver financial services that are more efficient, transparent, and accessible than traditional finance.
+
+
+
+What asset pairs are currently supported by AAVE on the Celo blockchain?
+AAVE on Celo - Assets to Supply
+Collateral usage is limited because of isolation mode.
+Asset	APY	Can be Collateral	Notes
+cUSD	<0.01%	No	Can supply
+cEUR	<0.01%	No	Can supply
+USDT	<0.01%	No	Cannot supply (button disabled)
+USDC	0.11%	No	Can supply
+CELO	0.01%	No	Can supply, marked as Isolated
+
+
+about Uniswap Pool cUSD / cEUR (on Celo) information
+
+Uniswap Pool Overview — cUSD / cEUR (on Celo)
+Pool Details
+Token Pair: cUSD / cEUR
+
+Pool Address: 0x1c8DafD358d308b880F71eDB5170B010b106Ca60
+
+Version / Fee Tier: V3 / 0.01%
+
+Statistics
+Metric	Value	Notes
+Liquidity	227K cUSD / 124K cEUR	Current token reserves
+TVL (Total Value Locked)	$363,000	▲ +0.03% change
+24h Volume	$305,000	▼ -83.02% vs. previous day
+24h Fees	$30.54	Based on 0.01% fee tier
+Volume (Past 24 Hours)
+Total 24h Volume: $291,941.07
+
+Displayed with hourly bars
+
+Time range: 1D (can switch to 1H, 1W, 1M, 1Y)
+
